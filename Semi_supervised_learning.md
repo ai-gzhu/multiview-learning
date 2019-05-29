@@ -85,6 +85,13 @@
 	- Mark Coates; Soumyasundar Pal; Yingxue Zhang; Deniz Ustebay
 	- ([AAAI19](https://arxiv.org/pdf/1811.11103.pdf))
 	
+- Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning
+	- Takeru Miyato∗, Shin-ichi Maeda∗, Masanori Koyama§, and Shin Ishii
+	- ([arXiv](https://arxiv.org/pdf/1704.03976.pdf))
+- Label Propagation for Deep Semi-supervised Learning
+	- Ahmet Iscen, Giorgos Tolias, Yannis Avrithis, Ondrej Chum1
+	- ([arXiv](https://arxiv.org/pdf/1904.04717.pdf))
+	
 
 # Multiview Learning
 ## Nie feiping
