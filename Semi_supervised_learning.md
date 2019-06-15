@@ -91,7 +91,14 @@
 - Label Propagation for Deep Semi-supervised Learning
 	- Ahmet Iscen, Giorgos Tolias, Yannis Avrithis, Ondrej Chum1
 	- ([arXiv](https://arxiv.org/pdf/1904.04717.pdf))
+
+- Joint Representative Selection and Feature Learning: A Semi-Supervised Approach
+	- Suchen Wang, Jingjing Meng, Junsong Yuan, Yap-Peng Tan
+	- ([CVPR19](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Joint_Representative_Selection_and_Feature_Learning_A_Semi-Supervised_Approach_CVPR_2019_paper.pdf))
 	
+- Semi-supervised Learning with Graph Learning-Convolutional Networks
+	- Bo Jiang, Ziyan Zhang, Doudou Lin, Jin Tang, and Bin Luo
+	- ([CVPR19](http://openaccess.thecvf.com/content_CVPR_2019/papers/Jiang_Semi-Supervised_Learning_With_Graph_Learning-Convolutional_Networks_CVPR_2019_paper.pdf))
 
 # Multiview Learning
 ## Nie feiping
